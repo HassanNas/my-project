@@ -1,0 +1,5 @@
+{
+  "name": "DentalEase Clinic Manager",
+  "description": "A comprehensive React and Tailwind CSS application for managing dental clinic operations, including patient records, appointments, staff, and basic financial tracking. Features bilingual support (English/Arabic) and a mock AI-powered insights module.",
+  "requestFramePermissions": []
+}
